@@ -1,0 +1,5 @@
+.kuberlr/
+*.kubeconfig
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
